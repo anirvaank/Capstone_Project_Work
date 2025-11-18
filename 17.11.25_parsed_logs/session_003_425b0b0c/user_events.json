@@ -1,0 +1,14 @@
+[
+  {
+    "move_type": "select",
+    "row": 5,
+    "column": 9,
+    "time_ms": 57495,
+    "dt_ms": 2340,
+    "cell_before": null,
+    "cell_after": null,
+    "mode": null,
+    "raw": "17 Nov 10:46:11.130 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=5 c=9 dt_ms=2340 t_ms=57495 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 2 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+    "lineno": 110
+  }
+]

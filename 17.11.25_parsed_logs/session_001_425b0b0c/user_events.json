@@ -1,0 +1,26 @@
+[
+  {
+    "move_type": "select",
+    "row": 1,
+    "column": 1,
+    "time_ms": 31245,
+    "dt_ms": 1751,
+    "cell_before": null,
+    "cell_after": null,
+    "mode": null,
+    "raw": "17 Nov 10:45:44.892 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=1 c=1 dt_ms=1751 t_ms=31245 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+    "lineno": 65
+  },
+  {
+    "move_type": "write",
+    "row": 1,
+    "column": 1,
+    "time_ms": 32485,
+    "dt_ms": 1240,
+    "cell_before": null,
+    "cell_after": "4",
+    "mode": "pen",
+    "raw": "17 Nov 10:45:46.133 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] move=1 r=1 c=1 prev=' ' next='4' mode=pen dt_ms=1240 t_ms=32485 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 2 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+    "lineno": 66
+  }
+]

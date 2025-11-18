@@ -1,0 +1,16 @@
+move_type,row,column,time_ms,cell_before,cell_after
+select,1,1,3110,,
+select,2,1,65695,,
+write,2,1,66611,,1
+select,3,1,67589,,
+write,3,1,67700,,1
+write,5,1,68868,,1
+select,5,1,68744,,
+select,6,1,69827,,
+write,6,1,69915,,1
+select,2,1,71134,,
+select,1,1,71744,,
+erase,1,1,72517,4,
+write,1,1,72686,,1
+select,9,1,74269,,
+write,9,1,74439,,1

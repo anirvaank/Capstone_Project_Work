@@ -1,0 +1,59 @@
+{
+  "file": "raw_logs/17.11.25_logs.log",
+  "out_dir": "out_multi",
+  "counts": {
+    "non_permove_lines": 350,
+    "sessions_ignored": 8,
+    "sessions_started": 18,
+    "permove_events": 82
+  },
+  "reasons": {
+    "first_permove_skipped_per_session": 7
+  },
+  "sessions_written": 4,
+  "ignored_ids": [
+    "pluginandlogstests"
+  ],
+  "sessions": [
+    {
+      "session_idx": 9,
+      "playId": "dc43ad52c6389dc563a9f7d1e113bde64ee8d16380d305da0e3cf43fc6fd16d4",
+      "uid": "4526d07d-dff7-420e-8aed-95d3bd9b8001",
+      "user_id": null,
+      "puzzle_id": "d9bb9850",
+      "series": "-",
+      "setup_events": 1,
+      "user_events": 19
+    },
+    {
+      "session_idx": 10,
+      "playId": "70fbf619c603a6a4f8e3d67462a64c5ad846396124e3b6412baba109c009d33c",
+      "uid": "4526d07d-dff7-420e-8aed-95d3bd9b8001",
+      "user_id": null,
+      "puzzle_id": "cf60c30a",
+      "series": "-",
+      "setup_events": 1,
+      "user_events": 19
+    },
+    {
+      "session_idx": 15,
+      "playId": "bd21a13733568cb8026d3c85d17ff7ec7bae9316ceea2feef385b4520ba54dcc",
+      "uid": "79ebcaa3-1c8d-4203-a788-b005e7bbd403",
+      "user_id": null,
+      "puzzle_id": "cf60c30a",
+      "series": "-",
+      "setup_events": 1,
+      "user_events": 19
+    },
+    {
+      "session_idx": 17,
+      "playId": "3e6c55e7b6b47105a00e4e093bfcf9aa5f00010d46b1142d4044c52c05470797",
+      "uid": "d977c0ba-2326-4cf9-94b1-3c3b04d83a53",
+      "user_id": null,
+      "puzzle_id": "d9bb9850",
+      "series": "-",
+      "setup_events": 1,
+      "user_events": 21
+    }
+  ]
+}

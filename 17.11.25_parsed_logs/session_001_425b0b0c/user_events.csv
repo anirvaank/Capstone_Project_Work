@@ -1,0 +1,3 @@
+move_type,row,column,time_ms,cell_before,cell_after
+select,1,1,31245,,
+write,1,1,32485,,4

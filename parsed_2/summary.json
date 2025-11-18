@@ -1,0 +1,19 @@
+[
+  {
+    "userId": "anir",
+    "puzzleId": "d9bb9850",
+    "seq": 1,
+    "w": 4,
+    "h": 4,
+    "events": {
+      "setup": 0,
+      "user": 21,
+      "total": 21
+    },
+    "sources": {
+      "boot_state": true,
+      "preReveal": false
+    },
+    "out_dir": ".\\parsed_2\\d9bb9850__anir"
+  }
+]

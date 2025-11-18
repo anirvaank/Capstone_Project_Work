@@ -1,0 +1,64 @@
+{
+  "file": "raw_logs\\17.11.25_logs.log",
+  "out_dir": "./parsed",
+  "forced_play_id": null,
+  "play_counts_top5": [
+    [
+      "425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1",
+      40
+    ],
+    [
+      "bd21a13733568cb8026d3c85d17ff7ec7bae9316ceea2feef385b4520ba54dcc",
+      24
+    ],
+    [
+      "3e6c55e7b6b47105a00e4e093bfcf9aa5f00010d46b1142d4044c52c05470797",
+      24
+    ],
+    [
+      "dc43ad52c6389dc563a9f7d1e113bde64ee8d16380d305da0e3cf43fc6fd16d4",
+      23
+    ],
+    [
+      "70fbf619c603a6a4f8e3d67462a64c5ad846396124e3b6412baba109c009d33c",
+      22
+    ]
+  ],
+  "auto_play_id": "425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1",
+  "accept_nonlog": false,
+  "gap_ms": 200,
+  "counts": {
+    "total_lines": 503,
+    "permove_lines": 136
+  },
+  "reasons_for_skip": {
+    "not_permove_line": 253,
+    "first_permove_skipped": 1,
+    "no_move_select_match": 7,
+    "other_playId": 96
+  },
+  "split_info": {
+    "saw_completed_for_target": true,
+    "split_after_index": 119
+  },
+  "samples": {
+    "first_5_permove": [
+      "17 Nov 10:45:13.642 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] loaded id=pluginandlogstests set=- w=9 h=9 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: No",
+      "17 Nov 10:45:32.062 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] loaded id=pluginandlogstests set=- w=9 h=9 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: No",
+      "17 Nov 10:45:43.722 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=2 c=4 dt_ms=29494 t_ms=29494 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+      "17 Nov 10:45:44.892 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=1 c=1 dt_ms=1751 t_ms=31245 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+      "17 Nov 10:45:46.133 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] move=1 r=1 c=1 prev=' ' next='4' mode=pen dt_ms=1240 t_ms=32485 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 2 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 acc"
+    ],
+    "first_5_setup": [],
+    "first_5_user": [
+      "17 Nov 10:45:43.722 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=2 c=4 dt_ms=29494 t_ms=29494 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+      "17 Nov 10:45:44.892 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=1 c=1 dt_ms=1751 t_ms=31245 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 1 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+      "17 Nov 10:45:46.133 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] move=1 r=1 c=1 prev=' ' next='4' mode=pen dt_ms=1240 t_ms=32485 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 2 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 acc",
+      "17 Nov 10:46:08.789 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=9 c=5 dt_ms=22670 t_ms=55155 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 2 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None",
+      "17 Nov 10:46:11.130 ClientLog INFO  [Log:/sudoku] - [sudoku-permove] select r=5 c=9 dt_ms=2340 t_ms=57495 page: sudoku_player series: pm-dhruva id: pluginandlogstests playState: 2 playId: 425b0b0cfceac8e649b7e5ea649368de8e9d08326c6106368b53bd70deab0ee1 uid: test-uid backend_uid: 95b6a7e4-0f0f-4980-9197-70719f8257e2 uidSrc: OLD_COOKIE IP: 103.7.128.210 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 account: None series: None"
+    ]
+  },
+  "setup_events": 0,
+  "user_events": 32,
+  "state_rows": 0
+}
