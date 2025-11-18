@@ -1,0 +1,212 @@
+[
+  {
+    "move_type": "select",
+    "row": 2,
+    "column": 2,
+    "time_ms": 13244,
+    "dt_ms": 13244,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 2,
+    "column": 2,
+    "time_ms": 14089,
+    "dt_ms": 845,
+    "cell_before": "",
+    "cell_after": "4",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 3,
+    "column": 3,
+    "time_ms": 16540,
+    "dt_ms": 2451,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 3,
+    "column": 3,
+    "time_ms": 17273,
+    "dt_ms": 733,
+    "cell_before": "",
+    "cell_after": "4",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 4,
+    "column": 2,
+    "time_ms": 20352,
+    "dt_ms": 3079,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 4,
+    "column": 2,
+    "time_ms": 20992,
+    "dt_ms": 640,
+    "cell_before": "",
+    "cell_after": "3",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 3,
+    "column": 2,
+    "time_ms": 21994,
+    "dt_ms": 1002,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 3,
+    "column": 2,
+    "time_ms": 22779,
+    "dt_ms": 785,
+    "cell_before": "",
+    "cell_after": "2",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 1,
+    "column": 2,
+    "time_ms": 26633,
+    "dt_ms": 3854,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 1,
+    "column": 2,
+    "time_ms": 27440,
+    "dt_ms": 807,
+    "cell_before": "",
+    "cell_after": "1",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 2,
+    "column": 3,
+    "time_ms": 28911,
+    "dt_ms": 1471,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 2,
+    "column": 3,
+    "time_ms": 29703,
+    "dt_ms": 792,
+    "cell_before": "",
+    "cell_after": "1",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 1,
+    "column": 3,
+    "time_ms": 31063,
+    "dt_ms": 1360,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 1,
+    "column": 3,
+    "time_ms": 31639,
+    "dt_ms": 576,
+    "cell_before": "",
+    "cell_after": "3",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 2,
+    "column": 4,
+    "time_ms": 32206,
+    "dt_ms": 567,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 2,
+    "column": 4,
+    "time_ms": 32779,
+    "dt_ms": 573,
+    "cell_before": "",
+    "cell_after": "2",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 2,
+    "column": 1,
+    "time_ms": 33495,
+    "dt_ms": 716,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 2,
+    "column": 1,
+    "time_ms": 34084,
+    "dt_ms": 589,
+    "cell_before": "",
+    "cell_after": "3",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": 1,
+    "column": 1,
+    "time_ms": 34692,
+    "dt_ms": 608,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  },
+  {
+    "move_type": "write",
+    "row": 1,
+    "column": 1,
+    "time_ms": 35466,
+    "dt_ms": 774,
+    "cell_before": "",
+    "cell_after": "2",
+    "mode": "pen"
+  },
+  {
+    "move_type": "select",
+    "row": null,
+    "column": null,
+    "time_ms": 35469,
+    "dt_ms": 3,
+    "cell_before": "",
+    "cell_after": "",
+    "mode": ""
+  }
+]
